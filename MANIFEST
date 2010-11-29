@@ -9,7 +9,6 @@ Memoize/Storable.pm
 Memoize/Expire.pm
 Memoize/ExpireFile.pm
 Memoize/ExpireTest.pm
-Memoize/Saves.pm
 t/correctness.t
 t/prototype.t
 t/array.t
@@ -31,3 +30,5 @@ t/flush.t
 t/array_confusion.t
 article.html
 TODO
+Changes
+META.yml                                 Module meta-data (added by MakeMaker)
